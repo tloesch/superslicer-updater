@@ -2,7 +2,7 @@
   "name": "superslicer-updater",
   "version": "1.0.0",
   "description": "download and extract superslicer from the offical github repo",
-  "main": "updater.js",
+  "main": "update.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "nodemon update.js",
