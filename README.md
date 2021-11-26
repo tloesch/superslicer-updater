@@ -19,7 +19,7 @@ to check the if an update is available.
 When an update is available it will use the Download Link of the win64 zip file (Windows) to downlad the update.
 Before updating a backup of your current installed Version will be created.
 
-## Contributing Improvments
+## Contributing Improvements
 Currently there are no contributing templates or rules for issues or pull requests.
 For the moment just create them with enough explaination.
 You should always try to answer following questions: What? and Why?
