@@ -14,7 +14,7 @@ Superslicer Installer &amp; Updater for Windows. Written in NodeJs.
 + Before any update your current version will be copied into the .backup folder
 
 ## How it works
-The Updater will look into the lastest Release Page of the Superslicer Repositoriy (https://github.com/supermerill/SuperSlicer/releases/latest)
+The Updater will look into the lastest Release Page of the Superslicer Repository (https://github.com/supermerill/SuperSlicer/releases/latest)
 to check the if an update is available. 
 When an update is available it will use the Download Link of the win64 zip file (Windows) to downlad the update.
 Before updating a backup of your current installed Version will be created.
